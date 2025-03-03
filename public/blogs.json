@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "cover": "https://source.unsplash.com/random/800x600?book",
+    "cover": "https://i.ibb.co.com/svGjXzFb/4.jpg",
     "title": "The Silent Echo",
     "author": "Emily Carter",
     "author_img": "https://source.unsplash.com/random/100x100?woman",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "cover": "https://source.unsplash.com/random/800x600?novel",
+    "cover": "https://i.ibb.co.com/QFxyX9X7/1.jpg",
     "title": "Digital Dreams",
     "author": "James Thornton",
     "author_img": "https://source.unsplash.com/random/100x100?man",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "cover": "https://source.unsplash.com/random/800x600?fantasy",
+    "cover": "https://i.ibb.co.com/XrRp8R93/2.png",
     "title": "Kingdom of Ashes",
     "author": "Sophia Bennett",
     "author_img": "https://source.unsplash.com/random/100x100?woman,portrait",
@@ -31,22 +31,12 @@
   },
   {
     "id": 4,
-    "cover": "https://source.unsplash.com/random/800x600?history",
+    "cover": "https://i.ibb.co.com/SDzZb6t6/3.png",
     "title": "Echoes of the Past",
     "author": "Daniel Reynolds",
     "author_img": "https://source.unsplash.com/random/100x100?man,portrait",
     "posted_date": "2025-02-15",
     "reading_time": 6,
     "hashtags": ["#history", "#biography", "#trueStory"]
-  },
-  {
-    "id": 5,
-    "cover": "https://source.unsplash.com/random/800x600?selfhelp",
-    "title": "The Power Within",
-    "author": "Rachel Adams",
-    "author_img": "https://source.unsplash.com/random/100x100?woman,smile",
-    "posted_date": "2025-02-10",
-    "reading_time": 8,
-    "hashtags": ["#selfhelp", "#motivation", "#growth"]
   }
 ]
