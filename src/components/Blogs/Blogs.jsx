@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useEffect } from "react";
 import { useState } from "react";
 
@@ -11,8 +12,8 @@ const Blogs = () => {
   }, []);
 
   return (
-    <div>
-      <h3>This is blogs</h3>
+    <div className="w-2/3">
+      <h1 className="text-4xl">This is blogs</h1>
     </div>
   );
 };
