@@ -6,11 +6,11 @@ import Blog from "../Blog/Blog";
 const Blogs = () => {
   const [blogs, setblogs] = useState([]);
 
-  useEffect(() => {
-    fetch("blogs.json")
-      .then((res) => res.json())
-      .then((data) => setblogs(data));
-  }, []);
+  // useEffect(() => {
+  //   fetch("blogs.json")
+  //     .then((res) => res.json())
+  //     .then((data) => setblogs(data));
+  // }, []);
 
   return (
     <div className="md:w-2/3">
